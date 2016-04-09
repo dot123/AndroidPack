@@ -53,7 +53,7 @@ public class NativeUtils extends SDKManageHelper {
 	}
 
 	/**
-	 * ¸ù¾İ°üÃû»ñÈ¡°æ±¾ºÅ
+	 * æ ¹æ®åŒ…åè·å–ç‰ˆæœ¬å·
 	 * 
 	 * @param context
 	 * @param appName
