@@ -1,0 +1,3 @@
+本文件夹中不可以放入assets文件夹
+
+作为android.library
